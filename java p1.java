@@ -27,3 +27,9 @@ public class MultiplyTwoNumbers {
 
 // i have not added any changes yet Ra6
 
+// I am adding a new function
+
+addition(int a, intb)
+{
+
+}
